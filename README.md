@@ -1,11 +1,8 @@
-## Firebase Todo List
+## Firebase Reminder List
 
 **Version 1.0.0** 
 
 Description:
-The user will be able to add a todo, create, delete, and update.
+The user will be able to add a reminder task, create, delete, and update.
 
 
-## License & copyright
-
-© Jay B. Crisostomo
